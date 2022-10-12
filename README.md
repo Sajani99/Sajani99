@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sajani99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sajani Gandhira
+- 👀 I’m interested in both IT and Management paths
+- 🌱 I’m currently following Management and IT degree (undergraduate)
+- 💞️ I’m looking to collaborate on 
+- 📫 Contact me sajanahewapathirana@gmail.com
 
 <!---
 Sajani99/Sajani99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
